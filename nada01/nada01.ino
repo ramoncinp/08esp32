@@ -1,6 +1,6 @@
 
 #define LED 2
-#define RETARDO 200
+#define RETARDO 2000
 unsigned long referencia;
 
 void setup()
